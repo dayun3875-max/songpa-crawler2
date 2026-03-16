@@ -19,4 +19,4 @@ jobs:
           python-version: '3.10'
 
       - name: 실행
-        run: 0316_songpa.py
+        run: python 0316_songpa.py
